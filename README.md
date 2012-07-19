@@ -5,9 +5,7 @@ Sample application on top of Creatary platform.
 Receives weather forecast inquiry via SMS and responds with SMS containing weather conditions fetched from google API.
 Uses Creatary location API to locate subscriber
 
-
 More information on www.creatary.com
-
 
 Installation
 -----------
