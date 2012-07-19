@@ -3,8 +3,9 @@ require 'open-uri'
 require 'nokogiri'
 require 'google_weather.rb'
 module WeatherHelper
-  SMS_LENGHT = 160
 
+  SMS_LENGHT = 160
+  #TODO added to check
   def fetch_forecast(weather_request)
 
     Rails.logger.info "Fetching forecast for #{ weather_request.location}, #{weather_request.coordinates}"
