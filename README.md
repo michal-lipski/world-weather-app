@@ -1,5 +1,5 @@
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/michal-lipski/world-weather-app)
-
+[![Build Status](https://secure.travis-ci.org/michal-lipski/world-weather-app.png)](http://travis-ci.org/michal-lipski/world-weather-app)
 World Weather Application
 =============
 
