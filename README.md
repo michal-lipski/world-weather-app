@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/michal-lipski/world-weather-app)
+
 World Weather Application
 =============
 
