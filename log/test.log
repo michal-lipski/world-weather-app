@@ -352,3 +352,9 @@ Fetching forecast for Warsaw , Sun, {}
 Fetching forecast for Warsaw , Thu, {}
 Fetching forecast for Warsaw , Tue, {}
 Fetching forecast for  , Fri, {"latitude"=>"32221700", "longitude"=>"110925800"}
+Fetching forecast for Warsaw, {}
+Fetching forecast for , {"latitude"=>"32221700", "longitude"=>"110925800"}
+Fetching forecast for NoExistingCity, {}
+Fetching forecast for Warsaw, {}
+Fetching forecast for , {"latitude"=>"32221700", "longitude"=>"110925800"}
+Fetching forecast for NoExistingCity, {}
